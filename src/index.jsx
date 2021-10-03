@@ -4,6 +4,12 @@ const App = () => {
     return (
         <Fragment>
                     <Text>Hello, worldddddddd!</Text>
+                    <Text>Hello, worldddddddd!</Text>
+                    <Text>Hello, worldddddddd!</Text>
+                    <Text>Hello, worldddddddd!</Text>
+                    <Text>Hello, worldddddddd!</Text>
+                    <Text>Hello, worldddddddd!</Text>
+
 
         </Fragment>
     );
