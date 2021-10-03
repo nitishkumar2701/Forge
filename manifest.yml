@@ -1,0 +1,12 @@
+modules:
+  confluence:spacePage:
+    - key: table-app-space-page-hello-world
+      function: main
+      title: Table-app
+      description: Inserts Hello world!
+      route: hello-world
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: ari:cloud:ecosystem::app/726d75d6-7d46-4991-b1f2-aad1d746f2b8
